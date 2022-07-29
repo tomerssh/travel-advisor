@@ -5,7 +5,7 @@ export default makeStyles((theme) => ({
     display: 'flex', justifyContent: 'center', position: 'relative', bottom: '15px'
   },
   appbar: {
-    position: 'fixed', bottom: '-25px',
+    position: 'fixed', bottom: '-35px',
   }
 }));
 
